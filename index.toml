@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "d646d3281e017244c6f9d5915d3a14f507413a8382d5a8a7a512de3d0b76e3a7"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "23879cd77ad372dee46e633b5120563f95a55f549aece438e9beb111cb9408b3"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "9ed34714e52d7dba7c9466c58e8819c20bd59b6882305e57c962c76adb0ca7e2"
 metafile = true
