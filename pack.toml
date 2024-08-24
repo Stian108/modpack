@@ -1,0 +1,13 @@
+name = "Circle's Pack"
+author = "Circle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "afc5f28bdf35a1ef8e03284f691243705ec871ab4a5e8f41ce630081c825d203"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.20.4"
