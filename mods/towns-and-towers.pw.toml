@@ -1,0 +1,13 @@
+name = "Towns and Towers"
+filename = "t_and_t-1.13.1b.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/cjQk2Nq8/t_and_t-1.13.1b.jar"
+hash-format = "sha1"
+hash = "365689ed08b52e8cde89796d30daf12583b3d9d0"
+
+[update]
+[update.modrinth]
+mod-id = "DjLobEOy"
+version = "cjQk2Nq8"
