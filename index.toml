@@ -13,6 +13,11 @@ file = "config/waystones-common.toml"
 hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "0c7a4358cb50be48aa124434aa44e5c730f7389ec99720e4ab08514355644951"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "9ed34714e52d7dba7c9466c58e8819c20bd59b6882305e57c962c76adb0ca7e2"
 metafile = true
@@ -80,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "1bfa978c09e27a1b064119a8ebe53083f63abc3625055f49f0f086a64c0222bb"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "8aa97a0a6d4c59423f007b11c97fd8671a31849c6024f4a7974236c19f42c677"
 metafile = true
 
 [[files]]
