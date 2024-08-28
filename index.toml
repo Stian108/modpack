@@ -23,6 +23,11 @@ hash = "6664c78c685917fbde3047a2d67c8501568d9d69196d549a445efb4ba9e9bd6c"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -35,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
 metafile = true
 
 [[files]]
@@ -53,8 +63,23 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "152ed4ff46889b956d1d81cb584aa066d69f2dbf72201c655b0cde901707c16c"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ff118d5d9ced175264395beb00b2c29222b0a236a0b0fed570c397afffaf6345"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "4bddb852809c3838923f41d8538b3c8160dfba52df156583e7b32337a4dc113b"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "fe2c08e00f407db274ced454f7eadcbcb0f04f094ac5d8543aafa050184f85b2"
 metafile = true
 
 [[files]]
@@ -68,13 +93,42 @@ hash = "c91e94326e8fe395b4d036213d3e151b70c594295a9c1c0126723bf59ece03d4"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat-1.20.1-2.0.13+refabricated-compat-1.1.jar"
+hash = "266cf2d98e43281f3f404bd16e3efe0fddff53ef837edbed46e929e075b45ad0"
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "f838d1d448db7bbed7c5c4c1ad56c863a5393acf2943a818f1d15b16e18cad5f"
 metafile = true
 
 [[files]]
@@ -85,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
 
 [[files]]
@@ -100,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/iris-fabric-1.20.1-1.8.0-snapshot+mc1.20.1-local.jar"
 hash = "6f180732802dcf54946ed32ce515b4d21082f7dbc2c7e502557f10ae31949481"
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "ccf6d5c394ae08243f852a14e196f5d6311f280d766bef6c03943dd7f653a1fe"
+metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -147,6 +211,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7effe74f556c093a4d7e36e8d1f0ae6ef115cfeab54a1d870107ff69e8ddd678"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
 metafile = true
@@ -157,13 +226,28 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-refabricated.pw.toml"
+hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "38a7fb9f74ecbe1e3a0879791c9e8a133a8020c155998ba88133671f69a4741f"
 metafile = true
 
 [[files]]
@@ -192,12 +276,37 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-0.6.0-alpha.3+mc1.20.1.jar"
 hash = "0a9ceabab525d2ecd606309fb4a164b1bfd06f171ca1153c1922e3d39794f63b"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
