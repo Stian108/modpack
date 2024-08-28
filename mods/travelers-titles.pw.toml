@@ -1,13 +1,13 @@
 name = "Traveler's Titles"
-filename = "TravelersTitles-1.20.4-Fabric-4.4.1.jar"
+filename = "TravelersTitles-1.20-Fabric-4.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JtifUr64/versions/yMVTlUDY/TravelersTitles-1.20.4-Fabric-4.4.1.jar"
+url = "https://cdn.modrinth.com/data/JtifUr64/versions/MbifZGB0/TravelersTitles-1.20-Fabric-4.0.2.jar"
 hash-format = "sha1"
-hash = "9b226bc39fc9667d8bf9b4bdeecae40ff3ed498b"
+hash = "9698f7347b3c98276e4d4035e731e34e926e82d0"
 
 [update]
 [update.modrinth]
 mod-id = "JtifUr64"
-version = "yMVTlUDY"
+version = "MbifZGB0"
