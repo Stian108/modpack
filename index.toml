@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/comforts-server.toml"
+hash = "24702276d0b1d6f7b5e94b4b34cbc5bd426c524a31bc005231324fc1b7976438"
+
+[[files]]
+file = "config/exposure-client.toml"
+hash = "18e3fa3b1b96d55ea539dcf7d607194033b20180c325d1b7af5397c0f41c92b7"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "23879cd77ad372dee46e633b5120563f95a55f549aece438e9beb111cb9408b3"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "a94a3e63a6aebda853f74c0418c696dd43af5f00cd8455357e9513bc22719ac7"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -20,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "6664c78c685917fbde3047a2d67c8501568d9d69196d549a445efb4ba9e9bd6c"
-metafile = true
-
-[[files]]
-file = "mods/amendments.pw.toml"
-hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
 
 [[files]]
@@ -70,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
@@ -296,11 +298,6 @@ hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
 metafile = true
 
 [[files]]
-file = "mods/nethers-delight-refabricated.pw.toml"
-hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
-metafile = true
-
-[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
@@ -347,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
+hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
@@ -370,18 +367,18 @@ hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
 metafile = true
 
 [[files]]
@@ -391,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
