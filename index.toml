@@ -42,7 +42,7 @@ hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.2.1-a-dev-1.20.1.jar"
-hash = "dba4c1ba695aea93767d5cf15391d91c3f6dbe29418652416c27316ccdc98335"
+hash = "928bc01808167303dada4a0bb04b7682f185d4654b68d5de70b2efc0a2bced60"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -72,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
-metafile = true
-
-[[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
 
 [[files]]
@@ -364,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
