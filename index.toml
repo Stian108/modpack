@@ -282,6 +282,11 @@ hash = "52aca2c391f076b9de9f54450aeb80da989544d44a0ed920f86b5a074f1f8127"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "db9ea9823d5767e033f51110bb3cf8980f90eeb79bb2413a6395355b6d4bd920"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
