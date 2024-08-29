@@ -45,6 +45,10 @@ file = "config/waystones-common.toml"
 hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
 
 [[files]]
+file = "emi.json"
+hash = "5a4d8895d9a85f43ed1992639a46d3ca19c7f24a1acc39ed61aa92b1621e383c"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
