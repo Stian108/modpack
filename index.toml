@@ -5,6 +5,18 @@ file = "config/comforts-server.toml"
 hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "f5875ec5ffba5bf80fcb798d0d7e25ab169088f88bb48aa9f926db59d5c3f464"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a9c088dc850f7ac2e7a12ba86bcbf6940fa077902b5a04112420a0325f050172"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "e572e445125a73d127d2b33be4578970c184eef9a3fcfdd8f166606c1fa95c80"
+
+[[files]]
 file = "config/exposure-client.toml"
 hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
@@ -116,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ff118d5d9ced175264395beb00b2c29222b0a236a0b0fed570c397afffaf6345"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
 metafile = true
 
 [[files]]
