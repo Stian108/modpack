@@ -94,6 +94,11 @@ hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
+metafile = true
+
+[[files]]
 file = "mods/cadmus.pw.toml"
 hash = "dc53b7c7f833b63073f9164f411ded23899bc1978c6b112039311edc7deabd11"
 metafile = true
@@ -155,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
+hash = "7e1d689d019d25b75fa4e22ef1e85ce5a891be755199cec94efa0693e8ab438c"
 metafile = true
 
 [[files]]
@@ -374,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+metafile = true
+
+[[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "22d7feb92793e8253aa84c4783b1eb424f854a352f0c69f3c6e1fbe49dd80114"
 metafile = true
 
 [[files]]
