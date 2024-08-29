@@ -33,6 +33,10 @@ file = "config/modmenu.json"
 hash = "23879cd77ad372dee46e633b5120563f95a55f549aece438e9beb111cb9408b3"
 
 [[files]]
+file = "config/remote_player_waypoints_for_xaero/general.json5"
+hash = "56a61a79b5a76d2dd9dee44fac958ffc596deeb43ecc2e9bfe4b836393f848b5"
+
+[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "b06eb237b60a09f4e01e6f63fcfe36ad6f65d49621220996b84009588319fabe"
 
