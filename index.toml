@@ -37,6 +37,10 @@ file = "config/tconstruct-common.toml"
 hash = "18b88073742fb76abdecc0fc2af5cfffe6dd66d41d40af2a0e4664031186218b"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "25f0223d70d795dfcdab344e9e32a3a4ea2e649a946cac2f31ad1de2b96cfddc"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
 
@@ -112,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "fd4ec85a4e02683018d27282001b7c3204b0e43a2a11b307b74ce3468abc561a"
 metafile = true
 
 [[files]]
