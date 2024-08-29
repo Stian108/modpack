@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "b20ad0fb64ed7ee0f624dfd1f0b0c013a3cc5f5ba5225c6e178b227e962fd2f1"
+
+[[files]]
 file = "config/comforts-server.toml"
 hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
