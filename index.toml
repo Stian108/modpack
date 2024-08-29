@@ -6,7 +6,7 @@ hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f5875ec5ffba5bf80fcb798d0d7e25ab169088f88bb48aa9f926db59d5c3f464"
+hash = "de36508de97c0178e0c835f833139314f96d2582ee7830d0fcddce64d2ccde02"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -66,6 +66,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "b5656c161f1e3a8bd330dd2f05ddf2133d756f752f31e61578dafcf481a3eab5"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "dc53b7c7f833b63073f9164f411ded23899bc1978c6b112039311edc7deabd11"
 metafile = true
 
 [[files]]
@@ -225,6 +235,11 @@ hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "01c9d1280fda79349f992ea04b3b46b636baf33b0f7096df7d52b1ff6ce9e1b1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
 metafile = true
@@ -321,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
 metafile = true
 
 [[files]]
