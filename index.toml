@@ -45,10 +45,6 @@ file = "config/waystones-common.toml"
 hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.2.1-a-dev-1.20.1.jar"
-hash = "928bc01808167303dada4a0bb04b7682f185d4654b68d5de70b2efc0a2bced60"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
@@ -141,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "10fcc23f895fcdaa3a8f626536ef333cb65ed6091efdcf3922bec5aa30fabba2"
 metafile = true
 
 [[files]]
@@ -263,8 +264,9 @@ hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
 metafile = true
 
 [[files]]
-file = "mods/iris-fabric-1.20.1-1.8.0-snapshot+mc1.20.1-local.jar"
-hash = "6f180732802dcf54946ed32ce515b4d21082f7dbc2c7e502557f10ae31949481"
+file = "mods/iris.pw.toml"
+hash = "84738f7eafe822732a0e16fc9b417e4394cfd69d0eab1a1f1fbbe8e4b389ddc1"
+metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
@@ -407,8 +409,9 @@ hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.6.0-alpha.3+mc1.20.1.jar"
-hash = "0a9ceabab525d2ecd606309fb4a164b1bfd06f171ca1153c1922e3d39794f63b"
+file = "mods/sodium.pw.toml"
+hash = "f2e4ad22ff0f68071c4a99bb2c2b38e157084ea6ddda1cdcf468dae5bf59b17c"
+metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"

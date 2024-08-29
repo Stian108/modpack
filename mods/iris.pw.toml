@@ -1,0 +1,8 @@
+name = "Iris"
+filename = "iris.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Stian108/modpack/main/jar/iris.jar"
+hash-format = "sha256"
+hash = "6f180732802dcf54946ed32ce515b4d21082f7dbc2c7e502557f10ae31949481"

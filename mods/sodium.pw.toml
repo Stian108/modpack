@@ -1,0 +1,8 @@
+name = "Sodium"
+filename = "sodium.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Stian108/modpack/main/jar/sodium.jar"
+hash-format = "sha256"
+hash = "0a9ceabab525d2ecd606309fb4a164b1bfd06f171ca1153c1922e3d39794f63b"

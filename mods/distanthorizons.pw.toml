@@ -1,0 +1,8 @@
+name = "Distant Horizons"
+filename = "distanthorizons.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Stian108/modpack/main/jar/distanthorizons.jar"
+hash-format = "sha256"
+hash = "928bc01808167303dada4a0bb04b7682f185d4654b68d5de70b2efc0a2bced60"
