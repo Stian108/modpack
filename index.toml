@@ -38,7 +38,7 @@ hash = "18b88073742fb76abdecc0fc2af5cfffe6dd66d41d40af2a0e4664031186218b"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "25f0223d70d795dfcdab344e9e32a3a4ea2e649a946cac2f31ad1de2b96cfddc"
+hash = "db5be0c9f76354200e09609c00b060475148a49d5c09bb23230cae6256af3b1e"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -144,8 +144,23 @@ hash = "fe2c08e00f407db274ced454f7eadcbcb0f04f094ac5d8543aafa050184f85b2"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "bf4caa5dc97f8220b13500269cc4b34b7ff9fb6e561dda3603cb05a3564e6d3e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
