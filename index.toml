@@ -2,19 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "24702276d0b1d6f7b5e94b4b34cbc5bd426c524a31bc005231324fc1b7976438"
+hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
 [[files]]
 file = "config/exposure-client.toml"
-hash = "18e3fa3b1b96d55ea539dcf7d607194033b20180c325d1b7af5397c0f41c92b7"
+hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "23879cd77ad372dee46e633b5120563f95a55f549aece438e9beb111cb9408b3"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "b06eb237b60a09f4e01e6f63fcfe36ad6f65d49621220996b84009588319fabe"
+
+[[files]]
 file = "config/tconstruct-common.toml"
-hash = "a94a3e63a6aebda853f74c0418c696dd43af5f00cd8455357e9513bc22719ac7"
+hash = "18b88073742fb76abdecc0fc2af5cfffe6dd66d41d40af2a0e4664031186218b"
 
 [[files]]
 file = "config/waystones-common.toml"
