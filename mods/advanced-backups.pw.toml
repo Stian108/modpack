@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-fabric-1.20-3.6.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/Pe7UD6jm/AdvancedBackups-fabric-1.20-3.6.3.jar"
+hash-format = "sha1"
+hash = "fc2f667548b9e360d3a7605fc2e50c1ae5759787"
+
+[update]
+[update.modrinth]
+mod-id = "Jrmoreqs"
+version = "Pe7UD6jm"

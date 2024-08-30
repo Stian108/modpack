@@ -57,8 +57,17 @@ file = "emi.json"
 hash = "5a4d8895d9a85f43ed1992639a46d3ca19c7f24a1acc39ed61aa92b1621e383c"
 
 [[files]]
+file = "global/zume.json5"
+hash = "1bfe41d106c183b64a97ea1b8fcbdd801a51b0edec0dfd43c1e5e4161de3cef4"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
+metafile = true
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "19908bf2a160f0cbaef1a44fbd7f27bcd80bc18c3c9c9e2640017ea8c4623bf5"
 metafile = true
 
 [[files]]
@@ -122,6 +131,11 @@ hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -144,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ff118d5d9ced175264395beb00b2c29222b0a236a0b0fed570c397afffaf6345"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
@@ -199,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -306,6 +320,11 @@ hash = "db9ea9823d5767e033f51110bb3cf8980f90eeb79bb2413a6395355b6d4bd920"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -381,6 +400,11 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/picohud.pw.toml"
+hash = "33220c4af52df8d054b78309d7312342f401ece753a45d947cec8bafb50204fa"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "23864eebcc7167d7650a953c6abd2a87a42875883c2c421afa95056a04abb1f8"
 metafile = true
@@ -388,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
@@ -403,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
 
 [[files]]
@@ -506,8 +540,8 @@ hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
+file = "mods/zume.pw.toml"
+hash = "834ff50e393da3fa63d97ea38cf5a9cbcbc4e8d29ee2975e56c28ad3bd65ca66"
 metafile = true
 
 [[files]]
