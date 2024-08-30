@@ -29,6 +29,26 @@ file = "config/exposure-client.toml"
 hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
 [[files]]
+file = "config/heracles/groups.txt"
+hash = "bfadf2e4cea7a902f012d0baad16ee22b4c79fd0ba5d44415e6a329b72f118c3"
+
+[[files]]
+file = "config/heracles/quests/exposure/babys_first_camera.json"
+hash = "1fce840de15137773fa5f75e5368f48bfd34283432f30caab7f4889367aee494"
+
+[[files]]
+file = "config/heracles/quests/exposure/safari.json"
+hash = "d3e70a0a4dbd964bf89906177fbf88aa9f7dc47e60c77ce7988978065c0a22be"
+
+[[files]]
+file = "config/heracles/quests/exposure/selfie.json"
+hash = "3d1dcd444a329c31e6429bbb5e16f5f86a0af12554c7e6e9b5afc0f48e68b744"
+
+[[files]]
+file = "config/heracles/tutorial.html"
+hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "23879cd77ad372dee46e633b5120563f95a55f549aece438e9beb111cb9408b3"
 
@@ -59,6 +79,30 @@ hash = "5a4d8895d9a85f43ed1992639a46d3ca19c7f24a1acc39ed61aa92b1621e383c"
 [[files]]
 file = "global/zume.json5"
 hash = "1bfe41d106c183b64a97ea1b8fcbdd801a51b0edec0dfd43c1e5e4161de3cef4"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "447008e14c45868a9019bca1e4136128b207aac94935e59fa521a8b55e837a8b"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "7437c5932955c9fc0227a0d56aece2f24dbc6becda29ea355be93d677fa7fad9"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"

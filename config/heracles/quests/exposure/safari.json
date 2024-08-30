@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "babys_first_camera"
+  ],
+  "tasks": {
+    "exposure:black_and_white_film": {
+      "type": "heracles:item",
+      "item": "exposure:camera",
+      "nbt": {
+        "Film": {
+          "tag": {
+            "Frames": [
+              {
+                "minecraft:pig": 1
+              }
+            ]
+          }
+        }
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Take a picture of a pig!",
+      "icon": {
+        "item": {
+          "id": "minecraft:pig_spawn_egg",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Time to take your new camera for a spin! "
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -177,
+          -168
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:pig_spawn_egg",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Safari!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

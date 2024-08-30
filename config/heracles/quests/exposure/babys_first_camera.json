@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "exposure:camera": {
+      "type": "heracles:item",
+      "item": "exposure:camera",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "exposure:camera",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "exposure:black_and_white_film": {
+      "icon": {
+        "item": {
+          "id": "exposure:black_and_white_film",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "exposure:black_and_white_film",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Time to set out on your photographic journey!",
+      "In this questline you'll get familliar with the process of film photography. Capturing a photo on film, developing it and printing it to show it off to your friends. The first step on your journey is to get yourself a camera and some film!"
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -236,
+          -159
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:camera",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Baby's First Camera"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

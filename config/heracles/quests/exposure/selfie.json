@@ -1,0 +1,67 @@
+{
+  "dependencies": [
+    "babys_first_camera"
+  ],
+  "tasks": {
+    "selfie": {
+      "type": "heracles:item",
+      "item": "exposure:camera",
+      "nbt": {
+        "Film": {
+          "tag": {
+            "Frames": [
+              {
+                "Selfie": 1
+              }
+            ]
+          }
+        }
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "minecraft:player_head",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -177,
+          -140
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:player_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Selfie!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
