@@ -9,6 +9,10 @@ file = "config/bluemap/core.conf"
 hash = "c6825fd7ed1fe8c1372b384b4c70ee8ac1a9460531da0d0c0684f1f7495b8ba2"
 
 [[files]]
+file = "config/clienttweaks-common.toml"
+hash = "c17ad709cec447ff0b7c7c399e3be9304fbdac4ad677c895962378c7ef2662fe"
+
+[[files]]
 file = "config/comforts-server.toml"
 hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
@@ -140,6 +144,11 @@ hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
@@ -157,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
@@ -210,6 +224,11 @@ hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
 metafile = true
@@ -222,6 +241,16 @@ metafile = true
 [[files]]
 file = "mods/dynamicsurroundingsfabric.pw.toml"
 hash = "fe2c08e00f407db274ced454f7eadcbcb0f04f094ac5d8543aafa050184f85b2"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c5e07fbe45e18f4713c6bc117e4de3c0a60f5eed73c7612f83faae01c7040a5d"
 metafile = true
 
 [[files]]
@@ -325,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
+hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
 
 [[files]]
@@ -384,8 +413,33 @@ hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "a4c13d734a04698a90bce7637751ffbec09e79902d971a5b9a4b49881f7a11c8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "4aaf7aa1ad8549a91657e7d48bd1159834745e8e463622f1fbf4c942873ea5a1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "588ea6e8273ae73c13c29e392dcb1fadcf93448abd2d345b11bd46dc2299dbc8"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "7360de6463f20c08edaeff169419707f24c3ad7359e147fd717dedc70fd1c111"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "fc9c24558ef7fd70fa5d87e1e67a2427da0ea9ec6a4ceeabd06818f42f78ba96"
 metafile = true
 
 [[files]]
@@ -429,6 +483,21 @@ hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "38a7fb9f74ecbe1e3a0879791c9e8a133a8020c155998ba88133671f69a4741f"
 metafile = true
@@ -444,6 +513,11 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "2285c2cad4d33c4001b265d2517cd89b3fa97cd0a193ca1612c7b1235b8180f5"
+metafile = true
+
+[[files]]
 file = "mods/picohud.pw.toml"
 hash = "33220c4af52df8d054b78309d7312342f401ece753a45d947cec8bafb50204fa"
 metafile = true
@@ -456,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3b7a584ea5637c21f97d149d929a2505eb229c87eaab5fd7e4699a30515decc5"
 metafile = true
 
 [[files]]
