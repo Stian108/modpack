@@ -3,18 +3,18 @@
     "babys_first_camera"
   ],
   "tasks": {
-    "selfie": {
+    "dev_film": {
+      "type": "heracles:item",
+      "item": "exposure:developed_black_and_white_film",
+      "amount": 1,
+      "collection": "AUTOMATIC",
       "icon": {
         "item": {
-          "id": "minecraft:player_head",
+          "id": "exposure:developed_black_and_white_film",
           "count": 1
         },
         "type": "heracles:item"
-      },
-      "value": "9bc87e76-5bf9-44d7-8162-0bd7d0b9",
-      "description": "Take a selfie!",
-      "title": "Take a selfie!",
-      "type": "heracles:dummy"
+      }
     }
   },
   "rewards": {},
@@ -23,26 +23,26 @@
       "text": ""
     },
     "description": [
-      "You can take selfies with your new camera, just press F5!"
+      "Develop your first roll of film! Just craft your roll of film with a flask of water."
     ],
     "groups": {
       "Exposure": {
         "position": [
-          -215,
-          -202
+          -190,
+          -159
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:player_head",
+        "id": "exposure:developed_black_and_white_film",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Selfie!"
+      "translate": "Develop!"
     }
   },
   "settings": {

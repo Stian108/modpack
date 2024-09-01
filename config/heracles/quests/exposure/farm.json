@@ -3,30 +3,18 @@
     "babys_first_camera"
   ],
   "tasks": {
-    "exposure:black_and_white_film": {
-      "type": "heracles:item",
-      "item": "exposure:camera",
-      "nbt": {
-        "Film": {
-          "tag": {
-            "Frames": [
-              {
-                "minecraft:pig": 1
-              }
-            ]
-          }
-        }
-      },
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "title": "Take a picture of a pig!",
+    "test": {
       "icon": {
         "item": {
-          "id": "minecraft:pig_spawn_egg",
+          "id": "minecraft:hay_block",
           "count": 1
         },
         "type": "heracles:item"
-      }
+      },
+      "value": "8b98c891-f571-4cae-aa09-769dd8dc",
+      "description": "Photograph a Pig, Cow, Sheep or Chicken",
+      "title": "Photograph a Pig, Cow, Sheep or Chicken",
+      "type": "heracles:dummy"
     }
   },
   "rewards": {},
@@ -35,13 +23,13 @@
       "text": ""
     },
     "description": [
-      "Time to take your new camera for a spin! "
+      "Time to take your new camera for a spin! Go photograph some sheep, pigs, cows or chickens."
     ],
     "groups": {
       "Exposure": {
         "position": [
-          -177,
-          -168
+          -252,
+          -202
         ]
       }
     },
@@ -54,7 +42,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Safari!"
+      "translate": "Life on the Farm!"
     }
   },
   "settings": {

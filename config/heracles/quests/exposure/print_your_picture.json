@@ -1,48 +1,63 @@
 {
   "dependencies": [
-    "babys_first_camera"
+    "lightroom"
   ],
   "tasks": {
-    "selfie": {
+    "photo": {
+      "type": "heracles:item",
+      "item": "exposure:photograph",
+      "amount": 1,
+      "collection": "AUTOMATIC",
       "icon": {
         "item": {
-          "id": "minecraft:player_head",
+          "id": "exposure:photograph",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "frame": {
+      "icon": {
+        "item": {
+          "id": "exposure:photograph_frame",
           "count": 1
         },
         "type": "heracles:item"
       },
-      "value": "9bc87e76-5bf9-44d7-8162-0bd7d0b9",
-      "description": "Take a selfie!",
-      "title": "Take a selfie!",
-      "type": "heracles:dummy"
+      "item": {
+        "id": "exposure:photograph_frame",
+        "count": 1
+      },
+      "type": "heracles:item"
     }
   },
-  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
     "description": [
-      "You can take selfies with your new camera, just press F5!"
+      ""
     ],
     "groups": {
       "Exposure": {
         "position": [
-          -215,
-          -202
+          -99,
+          -159
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:player_head",
+        "id": "exposure:photograph",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Selfie!"
+      "translate": "Print Your Picture"
     }
   },
   "settings": {

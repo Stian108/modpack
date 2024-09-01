@@ -1,48 +1,32 @@
 {
   "dependencies": [
-    "babys_first_camera"
+    "color"
   ],
-  "tasks": {
-    "selfie": {
-      "icon": {
-        "item": {
-          "id": "minecraft:player_head",
-          "count": 1
-        },
-        "type": "heracles:item"
-      },
-      "value": "9bc87e76-5bf9-44d7-8162-0bd7d0b9",
-      "description": "Take a selfie!",
-      "title": "Take a selfie!",
-      "type": "heracles:dummy"
-    }
-  },
+  "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "You can take selfies with your new camera, just press F5!"
-    ],
+    "description": [],
     "groups": {
       "Exposure": {
         "position": [
-          -215,
-          -202
+          -144,
+          -82
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:player_head",
+        "id": "exposure:developed_color_film",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Selfie!"
+      "translate": "Develop Color!"
     }
   },
   "settings": {
