@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "babys_first_camera"
+  ],
+  "tasks": {
+    "selfie": {
+      "icon": {
+        "item": {
+          "id": "minecraft:player_head",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "value": "selfie",
+      "description": "Take a selfie!",
+      "title": "Take a selfie!",
+      "type": "heracles:dummy"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "You can take selfies with your new camera, just press F5!"
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -215,
+          -202
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:player_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Selfie!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "dependencies": [
+    "lightroom"
+  ],
+  "tasks": {
+    "photo": {
+      "type": "heracles:item",
+      "item": "exposure:photograph",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "exposure:photograph",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "frame": {
+      "icon": {
+        "item": {
+          "id": "exposure:photograph_frame",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "exposure:photograph_frame",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -99,
+          -159
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:photograph",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Print Your Picture"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

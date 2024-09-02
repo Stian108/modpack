@@ -1,0 +1,85 @@
+{
+  "dependencies": [
+    "develop"
+  ],
+  "tasks": {
+    "lightroom": {
+      "type": "heracles:item",
+      "item": "exposure:lightroom",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "exposure:lightroom",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "paper": {
+      "icon": {
+        "item": {
+          "id": "minecraft:paper",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:paper",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "black": {
+      "icon": {
+        "item": {
+          "id": "minecraft:black_dye",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:black_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "The lightroom is used to turn your developed film into photographs you can admire and display. Time to make one!"
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -144,
+          -159
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:lightroom",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Lightroom!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

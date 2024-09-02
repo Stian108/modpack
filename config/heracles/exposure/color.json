@@ -1,0 +1,117 @@
+{
+  "dependencies": [
+    "lightroom"
+  ],
+  "tasks": {
+    "color": {
+      "type": "heracles:item",
+      "item": "exposure:color_film",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "exposure:color_film",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "mundane": {
+      "icon": {
+        "item": {
+          "id": "minecraft:potion",
+          "count": 1,
+          "nbt": {
+            "Potion": "minecraft:mundane"
+          }
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:mundane"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "awkward": {
+      "icon": {
+        "item": {
+          "id": "minecraft:potion",
+          "count": 1,
+          "nbt": {
+            "Potion": "minecraft:awkward"
+          }
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:awkward"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "thick": {
+      "icon": {
+        "item": {
+          "id": "minecraft:potion",
+          "count": 1,
+          "nbt": {
+            "Potion": "minecraft:thick"
+          }
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:thick"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Ready to see the world in full color? Make your first roll of color film!"
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -144,
+          -119
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:color_film",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Color!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

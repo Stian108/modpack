@@ -1,16 +1,3 @@
-ExposureEvents.frameAdded(event => {
-    if (event.frame.getBoolean("minecraft:pig")
-        || event.frame.getBoolean("minecraft:sheep")
-        || event.frame.getBoolean("minecraft:cow")
-        || event.frame.getBoolean("minecraft:chicken")) {
-        Utils.server.runCommandSilent(`heracles complete farm ${event.player.username}`)
-    }
-
-    if (event.frame.getBoolean("Selfie")) {
-        Utils.server.runCommandSilent(`heracles complete selfie ${event.player.username}`)
-    }
-})
-
 ExposureEvents.modifyFrameData(event => {
     event.getFrame().putFloat("Pitch", event.player.pitch)
     event.getFrame().putFloat("Yaw", event.player.yaw)

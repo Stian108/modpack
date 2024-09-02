@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "babys_first_camera"
+  ],
+  "tasks": {
+    "dev_film": {
+      "type": "heracles:item",
+      "item": "exposure:developed_black_and_white_film",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "exposure:developed_black_and_white_film",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Develop your first roll of film! Just craft your roll of film with a flask of water."
+    ],
+    "groups": {
+      "Exposure": {
+        "position": [
+          -190,
+          -159
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exposure:developed_black_and_white_film",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Develop!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
