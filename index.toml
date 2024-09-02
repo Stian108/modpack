@@ -146,7 +146,7 @@ hash = "7437c5932955c9fc0227a0d56aece2f24dbc6becda29ea355be93d677fa7fad9"
 
 [[files]]
 file = "kubejs/server_scripts/exposure.js"
-hash = "b2f462508b9bdf0cdfd5ceb659d64ca4d5ba2ce0891cae29f204c0a2a40f5711"
+hash = "ff1456e8337607f02ac236b6c8707b1dcd0a646887a8515b47f99b831c0db4cf"
 
 [[files]]
 file = "kubejs/server_scripts/items.js"
