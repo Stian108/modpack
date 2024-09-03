@@ -33,44 +33,16 @@ file = "config/exposure-client.toml"
 hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
 [[files]]
-file = "config/heracles/exposure/babys_first_camera.json"
-hash = "1fce840de15137773fa5f75e5368f48bfd34283432f30caab7f4889367aee494"
-
-[[files]]
-file = "config/heracles/exposure/color.json"
-hash = "fbf6dff0226234ab4afe2f19806c4a0d862363fbbe002ada6b36d634a549dc30"
-
-[[files]]
-file = "config/heracles/exposure/develop.json"
-hash = "7d9a36f79c9073064774d9c7ea29c9afe8edee3cc1c414682c3d07fcb02be260"
-
-[[files]]
-file = "config/heracles/exposure/develop_color.json"
-hash = "0c7eae2d68d64b8cb041316479b21bf6a326f4b8363a916d7cfe50bd1c3d8f3a"
-
-[[files]]
-file = "config/heracles/exposure/farm.json"
-hash = "4db300332b479458259faf428bc170963ceab3c157c753aa5ab3780f204671d8"
-
-[[files]]
-file = "config/heracles/exposure/lightroom.json"
-hash = "fb7b6feb1c9ff908f8a1b40bc51d7e18ccb750ce9da951f9b4cb04b104d02712"
-
-[[files]]
-file = "config/heracles/exposure/print_your_picture.json"
-hash = "7b94dd204434eca455d66bbd68f8876730dc64273b8ce96a9024d817c6ffccfa"
-
-[[files]]
-file = "config/heracles/exposure/selfie.json"
-hash = "62447800b0ecb6666a18b263a4a1ce52a87f13ff274ecf9ce261d792d88e03c5"
-
-[[files]]
 file = "config/heracles/groups.txt"
 hash = "bfadf2e4cea7a902f012d0baad16ee22b4c79fd0ba5d44415e6a329b72f118c3"
 
 [[files]]
 file = "config/heracles/quests/exposure/babys_first_camera.json"
 hash = "1fce840de15137773fa5f75e5368f48bfd34283432f30caab7f4889367aee494"
+
+[[files]]
+file = "config/heracles/quests/exposure/chromatic_process.json"
+hash = "792c95b78ca1d348c3013e24fef07101964a27f8c501b3b34bae6b47d46df6c0"
 
 [[files]]
 file = "config/heracles/quests/exposure/color.json"
@@ -86,11 +58,15 @@ hash = "0c7eae2d68d64b8cb041316479b21bf6a326f4b8363a916d7cfe50bd1c3d8f3a"
 
 [[files]]
 file = "config/heracles/quests/exposure/farm.json"
-hash = "5a7cc6a0efede25040b8d951fe17eb361d86a8ab01df6f6a80fe8fb9814ec6e8"
+hash = "4db300332b479458259faf428bc170963ceab3c157c753aa5ab3780f204671d8"
 
 [[files]]
 file = "config/heracles/quests/exposure/lightroom.json"
 hash = "fb7b6feb1c9ff908f8a1b40bc51d7e18ccb750ce9da951f9b4cb04b104d02712"
+
+[[files]]
+file = "config/heracles/quests/exposure/minecraft_64.json"
+hash = "d8500c401ffd9a7cddd95bbb4df84a2bb8199819e8d9625619b707699c0cb7d4"
 
 [[files]]
 file = "config/heracles/quests/exposure/print_your_picture.json"
@@ -98,7 +74,7 @@ hash = "7b94dd204434eca455d66bbd68f8876730dc64273b8ce96a9024d817c6ffccfa"
 
 [[files]]
 file = "config/heracles/quests/exposure/selfie.json"
-hash = "f5ea7f4feaa7608cd31372497e8af7a55f5612c3d08558e2a5f21a5e0d03e460"
+hash = "62447800b0ecb6666a18b263a4a1ce52a87f13ff274ecf9ce261d792d88e03c5"
 
 [[files]]
 file = "config/heracles/tutorial.html"
@@ -146,15 +122,11 @@ hash = "7437c5932955c9fc0227a0d56aece2f24dbc6becda29ea355be93d677fa7fad9"
 
 [[files]]
 file = "kubejs/server_scripts/exposure.js"
-hash = "ff1456e8337607f02ac236b6c8707b1dcd0a646887a8515b47f99b831c0db4cf"
+hash = "759b7789e9346e35163671fc56a4aad6ea881ebeaca8ab44e1693ff6b85af391"
 
 [[files]]
 file = "kubejs/server_scripts/items.js"
 hash = "8dbd855645e0cf1a0fcf91c8a798b6cb11c78f1f21b358796bb341998983e1e9"
-
-[[files]]
-file = "kubejs/server_scripts/quests.js"
-hash = "edb5ce06d34774de6765ad32f4a6fa7ac3f022b24c1222f4927e5dd91e8c4e6d"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"

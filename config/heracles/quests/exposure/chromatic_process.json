@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "color"
+    "lightroom"
   ],
   "tasks": {},
   "rewards": {},
@@ -8,25 +8,27 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Exposure": {
         "position": [
-          -144,
-          -82
+          -125,
+          -120
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "exposure:developed_color_film",
+        "id": "exposure:chromatic_sheet",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Develop Color!"
+      "translate": "Chromatic Process"
     }
   },
   "settings": {
