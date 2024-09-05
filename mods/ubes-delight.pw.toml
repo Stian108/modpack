@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-fabric-1.20.1-0.2.0-beta-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/fewYi2Ix/ubesdelight-fabric-1.20.1-0.2.0-beta-3.jar"
+hash-format = "sha1"
+hash = "0e721e63008ad80c59b97812d8e24885526cf473"
+
+[update]
+[update.modrinth]
+mod-id = "PYjpoAys"
+version = "fewYi2Ix"

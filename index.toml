@@ -168,6 +168,11 @@ hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -193,6 +198,11 @@ hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
@@ -208,8 +218,18 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
@@ -245,6 +265,16 @@ metafile = true
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
@@ -298,8 +328,23 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "edb868ad7e8bac36029b2a2131251a71fc3e90200333b4bd1840ee90eef6ad56"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c91e94326e8fe395b4d036213d3e151b70c594295a9c1c0126723bf59ece03d4"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+metafile = true
+
+[[files]]
+file = "mods/experienced_crops.pw.toml"
+hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
 metafile = true
 
 [[files]]
@@ -417,6 +462,11 @@ hash = "db9ea9823d5767e033f51110bb3cf8980f90eeb79bb2413a6395355b6d4bd920"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "fdd070ab3caa825f8cdcbc39ac210c6e824fa0ce6a015110ffc44b0809640e7a"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
 metafile = true
@@ -482,6 +532,11 @@ hash = "7effe74f556c093a4d7e36e8d1f0ae6ef115cfeab54a1d870107ff69e8ddd678"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b0736342b40b434bd0549d7b3ccf24dad4ad0a7128a04447601df98efab12548"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
 metafile = true
@@ -512,8 +567,23 @@ hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-refabricated.pw.toml"
+hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/nutritionz.pw.toml"
+hash = "a2479c12f9474b6c4ebc74e020654c873568e88ce860a1d24d05e159050677af"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
 metafile = true
 
 [[files]]
@@ -597,8 +667,23 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "00cf4972c118db975733bceb2ad09e5921840337005b5f708bf5d27451b6bffa"
+metafile = true
+
+[[files]]
+file = "mods/separatedleaves.pw.toml"
+hash = "914bfd4ae88cf7cefbf9457d6df768f0d621d59c841bdc4b47d14e0b0bc5d573"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
 
 [[files]]
@@ -657,6 +742,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "dc3d5ba81edaefc84eaa0ed88acc827d1cc6e7fb3b0ba0416825a9a9f6e7254f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "86e8fdd0f89d9c0f320dd7197d2943d9beeb4cecc928334f9926cc0305242314"
 metafile = true
@@ -684,6 +774,16 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "834ff50e393da3fa63d97ea38cf5a9cbcbc4e8d29ee2975e56c28ad3bd65ca66"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "5d14c242326a6e8123a91f3dc7effa6c7749fec842fbc4aa7ed359c10a6a7a50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
