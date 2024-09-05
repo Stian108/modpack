@@ -268,11 +268,6 @@ hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
@@ -784,6 +779,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "8610fecce726a9ffcb10755d9c136a3e07211157484c5df92c066d5ab574dd31"
 metafile = true
 
 [[files]]
