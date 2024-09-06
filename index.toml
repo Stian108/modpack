@@ -161,11 +161,6 @@ file = "kubejs/startup_scripts/items.js"
 hash = "6a7a85a5981292e7da69ddcd874dfd4b2fcf223bfb6634a98d1f200ffdb5a142"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
-metafile = true
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "19908bf2a160f0cbaef1a44fbd7f27bcd80bc18c3c9c9e2640017ea8c4623bf5"
 metafile = true
@@ -446,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "394179fa2f33296037161a5e21ed8acd6fefe5e7ce5cbf1fc115c994685038c6"
+hash = "9622e3394093733287c52c6471bd125eeb9698271fbfc969ba41dbe7e3ea64b5"
 metafile = true
 
 [[files]]
@@ -462,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "f20b40399c36c6189c7436923eb814890c508a34d955cfd045b3ad5df6f9a315"
 metafile = true
 
 [[files]]
