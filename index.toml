@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
+hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "a6a69c5624a7b3e5ef925b0db9191ee3ae4872fd02f8ae3535fbb3a3040acfd5"
+hash = "150d4204f9662d54fea4028e5ad6f4b267ae0731065f146e6d6ded58eac0b09e"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "10fcc23f895fcdaa3a8f626536ef333cb65ed6091efdcf3922bec5aa30fabba2"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+hash = "0403bef24a249d2fcd6be807f44f2b7dbd5c5950505fda3ec1cda1914e38832f"
 metafile = true
 
 [[files]]
@@ -346,6 +346,11 @@ hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-delight-compat-1.20.1-2.0.13+refabricated-compat-1.1.jar"
 hash = "266cf2d98e43281f3f404bd16e3efe0fddff53ef837edbed46e929e075b45ad0"
 
@@ -371,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f838d1d448db7bbed7c5c4c1ad56c863a5393acf2943a818f1d15b16e18cad5f"
+hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
 
 [[files]]
@@ -385,8 +390,13 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "85ced93a5c688267e17c8dd8922aaf06fceac9288fff720caa9eb35df921ab7f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
+hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
 
 [[files]]
@@ -436,12 +446,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "52aca2c391f076b9de9f54450aeb80da989544d44a0ed920f86b5a074f1f8127"
+hash = "394179fa2f33296037161a5e21ed8acd6fefe5e7ce5cbf1fc115c994685038c6"
 metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "db9ea9823d5767e033f51110bb3cf8980f90eeb79bb2413a6395355b6d4bd920"
+hash = "a0dca875e8adb8f0cca0a6e5f0b6c2b561b7644fd5459c9a1054a61676c0067e"
 metafile = true
 
 [[files]]
@@ -496,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6daaec48585f33d86d9234a0e3d27d8c13f46800ca8d7f6c6cb543781152e02e"
+hash = "be3e8357614fde57b98700cce139b1b3473018fedcec59102a898d61057c1a4a"
 metafile = true
 
 [[files]]
@@ -590,11 +600,6 @@ hash = "3b7a584ea5637c21f97d149d929a2505eb229c87eaab5fd7e4699a30515decc5"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
@@ -656,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+hash = "7bf435c3024f232c35727a08521a96521518b97fe4584009a3b33158016eecfc"
 metafile = true
 
 [[files]]
@@ -686,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "86e8fdd0f89d9c0f320dd7197d2943d9beeb4cecc928334f9926cc0305242314"
+hash = "01086a504d6c5a1d4e4983a4f047bf675725583d40531f5b6972f11f4ff98de0"
 metafile = true
 
 [[files]]
