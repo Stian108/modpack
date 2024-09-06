@@ -3,17 +3,56 @@
     "babys_first_camera"
   ],
   "tasks": {
-    "test": {
+    "chicken": {
       "icon": {
         "item": {
-          "id": "minecraft:hay_block",
+          "id": "minecraft:chicken_spawn_egg",
           "count": 1
         },
         "type": "heracles:item"
       },
-      "value": "8b98c891-f571-4cae-aa09-769dd8dc",
-      "description": "Photograph a Pig, Cow, Sheep or Chicken",
-      "title": "Photograph a Pig, Cow, Sheep or Chicken",
+      "value": "chicken",
+      "description": "Photograph a Chicken",
+      "title": "Photograph a Chicken",
+      "type": "heracles:dummy"
+    },
+    "test": {
+      "icon": {
+        "item": {
+          "id": "minecraft:cow_spawn_egg",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "value": "cow",
+      "description": "Photograph a Cow",
+      "title": "Photograph a Cow",
+      "type": "heracles:dummy"
+    },
+    "sheep": {
+      "icon": {
+        "item": {
+          "id": "minecraft:sheep_spawn_egg",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "value": "sheep",
+      "description": "Photograph a Sheep",
+      "title": "Photograph a Sheep",
+      "type": "heracles:dummy"
+    },
+    "pig": {
+      "icon": {
+        "item": {
+          "id": "minecraft:pig_spawn_egg",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "value": "pig",
+      "description": "Photograph a Pig",
+      "title": "Photograph a Pig",
       "type": "heracles:dummy"
     }
   },
@@ -23,7 +62,7 @@
       "text": ""
     },
     "description": [
-      "Time to take your new camera for a spin! Go photograph some sheep, pigs, cows or chickens."
+      "Time to take your new camera for a spin! Go photograph some sheep, pigs, cows and chickens."
     ],
     "groups": {
       "Exposure": {

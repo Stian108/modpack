@@ -1,0 +1,13 @@
+name = "Bushy Leaves (Now with mod support!)"
+filename = "bushy-leaves-1-5-10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XSSmFELw/versions/4TCB8Lmf/bushy-leaves-1-5-10.zip"
+hash-format = "sha1"
+hash = "0f0310ccb3111ef3f73cc0e51775fcd8046b76f3"
+
+[update]
+[update.modrinth]
+mod-id = "XSSmFELw"
+version = "4TCB8Lmf"

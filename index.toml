@@ -33,44 +33,16 @@ file = "config/exposure-client.toml"
 hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
 [[files]]
-file = "config/heracles/exposure/babys_first_camera.json"
-hash = "1fce840de15137773fa5f75e5368f48bfd34283432f30caab7f4889367aee494"
-
-[[files]]
-file = "config/heracles/exposure/color.json"
-hash = "fbf6dff0226234ab4afe2f19806c4a0d862363fbbe002ada6b36d634a549dc30"
-
-[[files]]
-file = "config/heracles/exposure/develop.json"
-hash = "7d9a36f79c9073064774d9c7ea29c9afe8edee3cc1c414682c3d07fcb02be260"
-
-[[files]]
-file = "config/heracles/exposure/develop_color.json"
-hash = "0c7eae2d68d64b8cb041316479b21bf6a326f4b8363a916d7cfe50bd1c3d8f3a"
-
-[[files]]
-file = "config/heracles/exposure/farm.json"
-hash = "4db300332b479458259faf428bc170963ceab3c157c753aa5ab3780f204671d8"
-
-[[files]]
-file = "config/heracles/exposure/lightroom.json"
-hash = "fb7b6feb1c9ff908f8a1b40bc51d7e18ccb750ce9da951f9b4cb04b104d02712"
-
-[[files]]
-file = "config/heracles/exposure/print_your_picture.json"
-hash = "7b94dd204434eca455d66bbd68f8876730dc64273b8ce96a9024d817c6ffccfa"
-
-[[files]]
-file = "config/heracles/exposure/selfie.json"
-hash = "62447800b0ecb6666a18b263a4a1ce52a87f13ff274ecf9ce261d792d88e03c5"
-
-[[files]]
 file = "config/heracles/groups.txt"
 hash = "bfadf2e4cea7a902f012d0baad16ee22b4c79fd0ba5d44415e6a329b72f118c3"
 
 [[files]]
 file = "config/heracles/quests/exposure/babys_first_camera.json"
 hash = "1fce840de15137773fa5f75e5368f48bfd34283432f30caab7f4889367aee494"
+
+[[files]]
+file = "config/heracles/quests/exposure/chromatic_process.json"
+hash = "792c95b78ca1d348c3013e24fef07101964a27f8c501b3b34bae6b47d46df6c0"
 
 [[files]]
 file = "config/heracles/quests/exposure/color.json"
@@ -86,11 +58,15 @@ hash = "0c7eae2d68d64b8cb041316479b21bf6a326f4b8363a916d7cfe50bd1c3d8f3a"
 
 [[files]]
 file = "config/heracles/quests/exposure/farm.json"
-hash = "5a7cc6a0efede25040b8d951fe17eb361d86a8ab01df6f6a80fe8fb9814ec6e8"
+hash = "4db300332b479458259faf428bc170963ceab3c157c753aa5ab3780f204671d8"
 
 [[files]]
 file = "config/heracles/quests/exposure/lightroom.json"
 hash = "fb7b6feb1c9ff908f8a1b40bc51d7e18ccb750ce9da951f9b4cb04b104d02712"
+
+[[files]]
+file = "config/heracles/quests/exposure/minecraft_64.json"
+hash = "d8500c401ffd9a7cddd95bbb4df84a2bb8199819e8d9625619b707699c0cb7d4"
 
 [[files]]
 file = "config/heracles/quests/exposure/print_your_picture.json"
@@ -98,7 +74,7 @@ hash = "7b94dd204434eca455d66bbd68f8876730dc64273b8ce96a9024d817c6ffccfa"
 
 [[files]]
 file = "config/heracles/quests/exposure/selfie.json"
-hash = "f5ea7f4feaa7608cd31372497e8af7a55f5612c3d08558e2a5f21a5e0d03e460"
+hash = "62447800b0ecb6666a18b263a4a1ce52a87f13ff274ecf9ce261d792d88e03c5"
 
 [[files]]
 file = "config/heracles/tutorial.html"
@@ -146,15 +122,11 @@ hash = "7437c5932955c9fc0227a0d56aece2f24dbc6becda29ea355be93d677fa7fad9"
 
 [[files]]
 file = "kubejs/server_scripts/exposure.js"
-hash = "ff1456e8337607f02ac236b6c8707b1dcd0a646887a8515b47f99b831c0db4cf"
+hash = "759b7789e9346e35163671fc56a4aad6ea881ebeaca8ab44e1693ff6b85af391"
 
 [[files]]
 file = "kubejs/server_scripts/items.js"
 hash = "8dbd855645e0cf1a0fcf91c8a798b6cb11c78f1f21b358796bb341998983e1e9"
-
-[[files]]
-file = "kubejs/server_scripts/quests.js"
-hash = "edb5ce06d34774de6765ad32f4a6fa7ac3f022b24c1222f4927e5dd91e8c4e6d"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
@@ -191,6 +163,11 @@ hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -216,6 +193,11 @@ hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
@@ -231,8 +213,18 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
@@ -268,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
@@ -321,8 +318,23 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "edb868ad7e8bac36029b2a2131251a71fc3e90200333b4bd1840ee90eef6ad56"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c91e94326e8fe395b4d036213d3e151b70c594295a9c1c0126723bf59ece03d4"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+metafile = true
+
+[[files]]
+file = "mods/experienced_crops.pw.toml"
+hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
 metafile = true
 
 [[files]]
@@ -450,6 +462,11 @@ hash = "a0dca875e8adb8f0cca0a6e5f0b6c2b561b7644fd5459c9a1054a61676c0067e"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "fdd070ab3caa825f8cdcbc39ac210c6e824fa0ce6a015110ffc44b0809640e7a"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
 metafile = true
@@ -520,6 +537,11 @@ hash = "7effe74f556c093a4d7e36e8d1f0ae6ef115cfeab54a1d870107ff69e8ddd678"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b0736342b40b434bd0549d7b3ccf24dad4ad0a7128a04447601df98efab12548"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
 metafile = true
@@ -550,8 +572,23 @@ hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-refabricated.pw.toml"
+hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/nutritionz.pw.toml"
+hash = "a2479c12f9474b6c4ebc74e020654c873568e88ce860a1d24d05e159050677af"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
 metafile = true
 
 [[files]]
@@ -630,8 +667,23 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "00cf4972c118db975733bceb2ad09e5921840337005b5f708bf5d27451b6bffa"
+metafile = true
+
+[[files]]
+file = "mods/separatedleaves.pw.toml"
+hash = "914bfd4ae88cf7cefbf9457d6df768f0d621d59c841bdc4b47d14e0b0bc5d573"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
 
 [[files]]
@@ -690,6 +742,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "dc3d5ba81edaefc84eaa0ed88acc827d1cc6e7fb3b0ba0416825a9a9f6e7254f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "01086a504d6c5a1d4e4983a4f047bf675725583d40531f5b6972f11f4ff98de0"
 metafile = true
@@ -717,6 +774,21 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "834ff50e393da3fa63d97ea38cf5a9cbcbc4e8d29ee2975e56c28ad3bd65ca66"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "5d14c242326a6e8123a91f3dc7effa6c7749fec842fbc4aa7ed359c10a6a7a50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "8610fecce726a9ffcb10755d9c136a3e07211157484c5df92c066d5ab574dd31"
 metafile = true
 
 [[files]]
