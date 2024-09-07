@@ -33,6 +33,10 @@ file = "config/exposure-client.toml"
 hash = "1124105b866c23f727e6668f99b960bc2fc677aa262fea0b592d6cb35e2b0cf9"
 
 [[files]]
+file = "config/farmersdelight-common.toml"
+hash = "d29bed4db18f533208d4d579d48b09a4af04aac203651789465191cab8e56b35"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "bfadf2e4cea7a902f012d0baad16ee22b4c79fd0ba5d44415e6a329b72f118c3"
 
@@ -188,6 +192,11 @@ hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+hash = "919a849048754b92b70e7f75d35e1278876b630358b1766aa21673d3508a1c37"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
 metafile = true
@@ -240,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "fd4ec85a4e02683018d27282001b7c3204b0e43a2a11b307b74ce3468abc561a"
 metafile = true
 
 [[files]]
@@ -424,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
@@ -682,6 +701,16 @@ hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "d35ae735260454060a9197a93915d55858cd9d579bf56c4b471009d62bc87c5d"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
@@ -729,11 +758,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "2fd77b5be91e6e7ca940d8f0e448d3665078d429910927e414fcf5b6e3cb5167"
 metafile = true
 
 [[files]]
