@@ -616,11 +616,6 @@ hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
 metafile = true
 
 [[files]]
-file = "mods/overweight-farming.pw.toml"
-hash = "38a7fb9f74ecbe1e3a0879791c9e8a133a8020c155998ba88133671f69a4741f"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
