@@ -37,6 +37,10 @@ file = "config/farmersdelight-common.toml"
 hash = "d29bed4db18f533208d4d579d48b09a4af04aac203651789465191cab8e56b35"
 
 [[files]]
+file = "config/harvest_with_ease-common.toml"
+hash = "024938eda4dcfdf8229adefd95c16c423756557afb7fcb389d48499b9c2cf6d4"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "bfadf2e4cea7a902f012d0baad16ee22b4c79fd0ba5d44415e6a329b72f118c3"
 
@@ -101,40 +105,12 @@ file = "config/tconstruct-common.toml"
 hash = "18b88073742fb76abdecc0fc2af5cfffe6dd66d41d40af2a0e4664031186218b"
 
 [[files]]
-file = "config/travelersbackpack.json5"
-hash = "db5be0c9f76354200e09609c00b060475148a49d5c09bb23230cae6256af3b1e"
-
-[[files]]
-file = "config/waystones-common.toml"
-hash = "e4a9f0b6449e53b6809142eba2dc3f3cf1bad24277c3f58a6cafcaf6243d9fb5"
-
-[[files]]
-file = "emi.json"
-hash = "5a4d8895d9a85f43ed1992639a46d3ca19c7f24a1acc39ed61aa92b1621e383c"
-
-[[files]]
 file = "global/zume.json5"
 hash = "1bfe41d106c183b64a97ea1b8fcbdd801a51b0edec0dfd43c1e5e4161de3cef4"
 
 [[files]]
-file = "kubejs/config/client.properties"
-hash = "447008e14c45868a9019bca1e4136128b207aac94935e59fa521a8b55e837a8b"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "7437c5932955c9fc0227a0d56aece2f24dbc6becda29ea355be93d677fa7fad9"
-
-[[files]]
 file = "kubejs/server_scripts/exposure.js"
 hash = "759b7789e9346e35163671fc56a4aad6ea881ebeaca8ab44e1693ff6b85af391"
-
-[[files]]
-file = "kubejs/server_scripts/items.js"
-hash = "8dbd855645e0cf1a0fcf91c8a798b6cb11c78f1f21b358796bb341998983e1e9"
-
-[[files]]
-file = "kubejs/startup_scripts/items.js"
-hash = "6a7a85a5981292e7da69ddcd874dfd4b2fcf223bfb6634a98d1f200ffdb5a142"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -217,11 +193,6 @@ hash = "dc53b7c7f833b63073f9164f411ded23899bc1978c6b112039311edc7deabd11"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
@@ -252,6 +223,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "ba84a6676f1ab5ae9701bf8ad81903ff6c70ed2fe922da3cb1ffbcaf3218f34a"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "fd4ec85a4e02683018d27282001b7c3204b0e43a2a11b307b74ce3468abc561a"
 metafile = true
@@ -277,9 +253,8 @@ hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights-fabric.pw.toml"
-hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
-metafile = true
+file = "mods/cultural-delights-fabric-1.0.4+1.20.1.jar"
+hash = "79761f54077a773f02d2867476f44823d0af5d58550103d1a225fd7fb61aaebf"
 
 [[files]]
 file = "mods/cut-through.pw.toml"
@@ -347,11 +322,6 @@ hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
 metafile = true
 
 [[files]]
-file = "mods/experienced_crops.pw.toml"
-hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
 metafile = true
@@ -376,9 +346,8 @@ file = "mods/fabric-seasons-delight-compat-1.20.1-2.0.13+refabricated-compat-1.1
 hash = "266cf2d98e43281f3f404bd16e3efe0fddff53ef837edbed46e929e075b45ad0"
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
-metafile = true
+file = "mods/fabric-seasons-extras-1.20-1.2.1-BETA+1.20.jar"
+hash = "2eaa2c5b9b88389c5ee82a0632a2a19768ddc26b5a213585bf0479a6213eabba"
 
 [[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
@@ -426,6 +395,11 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "67090dfa2a7480c52767d077a34c92537d0450e101f915ad7c8bb0a457031cb9"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
@@ -466,11 +440,6 @@ hash = "0f31ab5d2bb9e8d06f0cb635bf3089737459a1d04501ff3f9c4ff2b01ec32d91"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "9622e3394093733287c52c6471bd125eeb9698271fbfc969ba41dbe7e3ea64b5"
 metafile = true
@@ -501,6 +470,11 @@ hash = "f20b40399c36c6189c7436923eb814890c508a34d955cfd045b3ad5df6f9a315"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "6ddcd0fc3f9c53f064f1deb0f6c5898324249e22f4526ad3c7b910d7d16b8def"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -523,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "588ea6e8273ae73c13c29e392dcb1fadcf93448abd2d345b11bd46dc2299dbc8"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -641,6 +620,11 @@ hash = "23864eebcc7167d7650a953c6abd2a87a42875883c2c421afa95056a04abb1f8"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6ce5b84c9c00519a748d14e51313725a6783939baca49ac5e92abe8163eb1da2"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -668,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
