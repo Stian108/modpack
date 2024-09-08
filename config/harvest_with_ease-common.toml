@@ -3,7 +3,7 @@ crops = []
 # List of in-game IDs for crops that under no condition can be right-click harvested.
 blacklist = []
 # Require holding a hoe (either hands) to right-click harvest.
-"require hoe" = false
+"require hoe" = true
 # If [require hoe] is set to true, damage the hoe of the given amount (0 to disable, must be an integer).
 #Range: > 0
 "damage on harvest" = 0

@@ -38,7 +38,7 @@ hash = "d29bed4db18f533208d4d579d48b09a4af04aac203651789465191cab8e56b35"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "024938eda4dcfdf8229adefd95c16c423756557afb7fcb389d48499b9c2cf6d4"
+hash = "da0911f03604c3378b267cc3ab028953b2690c8488c870ceaeaa48df455a9212"
 
 [[files]]
 file = "config/heracles/groups.txt"
