@@ -163,8 +163,8 @@ hash = "150d4204f9662d54fea4028e5ad6f4b267ae0731065f146e6d6ded58eac0b09e"
 metafile = true
 
 [[files]]
-file = "mods/bewitchment.pw.toml"
-hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
+file = "mods/betterdays.pw.toml"
+hash = "1962f8f48e4968bac0237c2147ccb50be33f6d883e030caaccb262de82e29e7e"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ hash = "152ed4ff46889b956d1d81cb584aa066d69f2dbf72201c655b0cde901707c16c"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ff118d5d9ced175264395beb00b2c29222b0a236a0b0fed570c397afffaf6345"
 metafile = true
@@ -253,12 +258,17 @@ hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights-fabric-1.0.4+1.20.1.jar"
-hash = "79761f54077a773f02d2867476f44823d0af5d58550103d1a225fd7fb61aaebf"
+file = "mods/cultural-delights-fabric-1.0.5+1.20.1-fix.jar"
+hash = "31802c893ae985c01a4ae30596663c9793ab7ec9d21a14832326fc48329879a9"
 
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.pw.toml"
+hash = "b9003d1b6da5a13d9a6de48eef8375c2abae7f97bb0c0caf89f136bd2e8e47b4"
 metafile = true
 
 [[files]]
@@ -730,6 +740,11 @@ hash = "67290d6986ff23778b37e49da990b693f2e2574ac69370f854b02f11245a05b6"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "5b45f546ca39ef446fa627f5a12e07784216dda33f5e1d7fdbe96f1a03e84715"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
 metafile = true
@@ -742,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "dc3d5ba81edaefc84eaa0ed88acc827d1cc6e7fb3b0ba0416825a9a9f6e7254f"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
 
 [[files]]
