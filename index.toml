@@ -123,6 +123,11 @@ hash = "6664c78c685917fbde3047a2d67c8501568d9d69196d549a445efb4ba9e9bd6c"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -420,6 +425,11 @@ hash = "01c9d1280fda79349f992ea04b3b46b636baf33b0f7096df7d52b1ff6ce9e1b1"
 metafile = true
 
 [[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "d0ca217d273ebc1c5d170f2c5e8c3ea9596c110f96341d0a41ab110f48a261b2"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
@@ -560,6 +570,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
@@ -587,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
-metafile = true
-
-[[files]]
-file = "mods/nutritionz.pw.toml"
-hash = "a2479c12f9474b6c4ebc74e020654c873568e88ce860a1d24d05e159050677af"
 metafile = true
 
 [[files]]
@@ -650,6 +660,11 @@ hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "ef93f98bada3ae0ba0fa4f4589ba470e91dd8a01608737ef231d2f1a25e91a61"
+metafile = true
+
+[[files]]
 file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
 hash = "22d7feb92793e8253aa84c4783b1eb424f854a352f0c69f3c6e1fbe49dd80114"
 metafile = true
@@ -657,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "8e86dfbe44f114dcd7f6102188e2490b63f522fceb78681aa27380020f2e4745"
 metafile = true
 
 [[files]]
@@ -712,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "0c50eff5af55c21966e0211dafaba03bb2ad057a69663e741fb32bd37935ffc7"
 metafile = true
 
 [[files]]
