@@ -36,6 +36,16 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "7e6d2ede11c04e97ff71cac479f52b3656c5f17cfd4a80e0640a58c65387570b"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "3aa5a0e70e10f7299e663eaec180ff2ec4e0a0a274327cb5db842a4fa14908d5"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "20c9cbdc257b7980a041e3acfcff39e11bf33de911b18654d89e9b977c71905a"
 metafile = true
@@ -151,6 +161,16 @@ hash = "1c0ec02e5829a7334af6c0afa8d99d6360492f17a2fec98c9e01295679ceb12e"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "15a073d9b57199d3412e2c4b6287395be6665b750019bf678270f872c45346bd"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
 metafile = true
@@ -172,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f1ccb05cc7302259e2a972bc762357198920e5d610de232e054d4758e15567ed"
+hash = "20cd9ea90ed44fe2a9ef85d2e5b3a312649374e55f22dd53eb250809e04a4328"
 metafile = true
 
 [[files]]
@@ -221,8 +241,18 @@ hash = "ac7676b301d1dca5aabbc1d19d3b4095dd2b808c8f3462412fc87ccbb84782e1"
 metafile = true
 
 [[files]]
+file = "mods/oritech.pw.toml"
+hash = "9185524d2938c250bf524d34930d27076a61896f2d6e08206f3edee1bc524e7c"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "556742da1f91238b0af7625ac4c307e3b3d4adb0e2643ae549f5028df6d4b0cc"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
 
 [[files]]

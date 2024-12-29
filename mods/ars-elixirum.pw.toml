@@ -1,0 +1,13 @@
+name = "Ars Elixirum"
+filename = "elixirum-fabric-1.21.1-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oYe4cXFm/versions/2dMpDOWi/elixirum-fabric-1.21.1-0.2.2.jar"
+hash-format = "sha1"
+hash = "a7cc10c5d89a10032dd8d95254b7732fb8bc9627"
+
+[update]
+[update.modrinth]
+mod-id = "oYe4cXFm"
+version = "2dMpDOWi"
