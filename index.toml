@@ -56,6 +56,11 @@ hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
 metafile = true
 
 [[files]]
+file = "mods/basic-storage.pw.toml"
+hash = "356a92234f31178be14b9d69051e0f6d8e2a7dd75bac424cbc6eb57956f79a7e"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "99b24f26e0446dfe682f0fcaff72b5326a9458decba3a57ac96a0f02ea3c7511"
 metafile = true
@@ -236,6 +241,11 @@ hash = "9a2443394b4018a83ff7caea2dfd858081796a26452c4c6767e4b7d69ba39e82"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "63614b70d96679e628776ae49d5fa8b25353ccbdb7f7234d5ad9f4114efded99"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "23612cdf2a5bb73b93f96c6280ea9213bcc193a9235c15d7a6da876b6604f8b7"
 metafile = true
@@ -368,6 +378,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "c08e1eff99102922cd45510e121a0113309afd745758b1530212affba9e47fed"
+metafile = true
+
+[[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "10b58af903ec641f819e80f780457b654e1952bbf986acf633d697535b98ec2a"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "60f95431f5c2f9d202cbd8ffdbdd1c35b89500526922d8083cde25362c97347c"
 metafile = true
 
 [[files]]
