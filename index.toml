@@ -56,6 +56,11 @@ hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "99b24f26e0446dfe682f0fcaff72b5326a9458decba3a57ac96a0f02ea3c7511"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "5bed3c77d5e1d7f17e94b1ce8fa63f4b9a2a7036e6928450e969aa7620dce36f"
 metafile = true
