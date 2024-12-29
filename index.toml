@@ -56,6 +56,11 @@ hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "5bed3c77d5e1d7f17e94b1ce8fa63f4b9a2a7036e6928450e969aa7620dce36f"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "87f2d8dd21c2c1a2c70e77d738db49304f3e5e51952271cd759286eec685fe05"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "d5daa15ab5ac3bad6b2fb7af0ca6c62d5deaac4f33b9e0923c740c6f9840d947"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
@@ -136,6 +146,11 @@ hash = "a3b665ea456c15a385a77709c4a94011fb0edcd444f97060d14ce8d72debf547"
 metafile = true
 
 [[files]]
+file = "mods/etherology.pw.toml"
+hash = "a2fdaf8ec7157c5441863c7de219c3177bcc0f464cc1e346b0003763c5b2640a"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "1a0f7e5cb73d27f2fbfca06ea3748be9304bbe2ce7322f937a674756d26973d5"
 metafile = true
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5e79e16e442ac4b3da94c1515e8d9ac5baaeab7c9589f0ff0ebebf1574d77255"
+metafile = true
+
+[[files]]
+file = "mods/fabricshieldlib.pw.toml"
+hash = "d290048f170b6a97143f8846adf92eb821db3c2fe653e86e5ec7bb7d78673b4f"
 metafile = true
 
 [[files]]
