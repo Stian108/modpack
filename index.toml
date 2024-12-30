@@ -491,6 +491,11 @@ hash = "15d4988debf6862706e5bcb9630b9a5b856d2609de978f64a3f1210463dc2418"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "c13d239f427802264cf167a16df4e46e13a950f5726ae778e29fa2703a328e94"
+metafile = true
+
+[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "2e80711b588f694b39d144ad6e426b7ed370a569b24a08524aaed16ad247dbcc"
 metafile = true
