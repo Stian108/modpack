@@ -17,8 +17,8 @@ file = "config/defaultoptions/servers.dat"
 hash = "e572e445125a73d127d2b33be4578970c184eef9a3fcfdd8f166606c1fa95c80"
 
 [[files]]
-file = "mods/DistantHorizons-2.3.0-b-RC1-1.21.1-neo-fabric.jar"
-hash = "da9e17afdf4babbd7b0cccb03ea579328505a27dafc555e3f6e2468c43efe5b2"
+file = "mods/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
+hash = "c462f3530c1870567bec0f5cbd265c5c4860e4e6f3680f5603ef32e02a6d17e4"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -86,6 +86,11 @@ hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "a349ad7c04429bc2e35202e6d36637f0b7cd263e32d90b8ac8fb70bfdf29d185"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "b61ede0fff57093cb36156c1f642a3f9680c815d0f439f39e99dbcf4d84bcb04"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e5cbc5221d474cb7e95447c5bccd5be8a1e7df24b4416dc3b694b7c7141f68c1"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c7dc5645170a58c9b4cd31cc5aaea5952d8fdfaded39c898b6eea8c190d45f54"
 metafile = true
 
 [[files]]
@@ -201,6 +211,11 @@ hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "dd2cbd40d697bc4f5330890f6cacd0adedc2317ce090c9f1064c05c7a739b33d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
 metafile = true
@@ -243,6 +258,26 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "63614b70d96679e628776ae49d5fa8b25353ccbdb7f7234d5ad9f4114efded99"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b63ca3bacf696065b8110d05c39846f72a89fe5d4b34b7a2ecf0f40c668984f1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "f2f39297a1b5fdfb35d5d8d0d0749b1319beaf61b9a35f7f42d031bece5f7fe4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "e25581cc004616df1dfcf428d3ae5950b12c9ab5a0d9d282d48fc422a7f1a25d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "09d45a3c0d8b197d202f8e16580d9722d9321e06f8373c89550cec74cd172806"
 metafile = true
 
 [[files]]
@@ -321,6 +356,11 @@ hash = "fd1b5dd6bffc8bbf5dcd65bb5b61458ec43eccbbbd7a7fa68a98c56f132a845c"
 metafile = true
 
 [[files]]
+file = "mods/profiler.pw.toml"
+hash = "832b336df528a16e3f6a81ec1943f1c1e2200dd1617af176b498feb5acbe49f3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "da8fe73e4e33af730138d69e338d43db1ae135e1f941afa4663d2ecf06d5fcad"
 metafile = true
@@ -333,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
 metafile = true
 
 [[files]]
