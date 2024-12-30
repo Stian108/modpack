@@ -211,6 +211,11 @@ hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "52345ebb3005a84237949ed6edba48818f0ffa4435c9984a1853b867c2edb862"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "dd2cbd40d697bc4f5330890f6cacd0adedc2317ce090c9f1064c05c7a739b33d"
 metafile = true
@@ -391,6 +396,11 @@ hash = "0556c543c4439a378b5763e12dd5fb8f0da53d44d0e1a6583e056ae589354c5d"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "5f520cf9778d1db374501661c6cf852e8e8ada26d26b8803ac1b2dd75220f2de"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "e64ae93c6ef9b2d06ce3abfe656f4126315f0f07e9303fb26e7f15ad9e6b0d02"
 metafile = true
@@ -483,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "fb31fc2606b2dc03d87550960ffd593c09d412128abd366248c2af3cec548467"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "15d4988debf6862706e5bcb9630b9a5b856d2609de978f64a3f1210463dc2418"
 metafile = true
 
 [[files]]
