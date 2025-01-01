@@ -396,11 +396,6 @@ hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "e5a59a2c34ec9e543067813d4e7c015b5409af2adf2f0cebacadacf5b042fa6a"
-metafile = true
-
-[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "3a02ca80a8b680dc38f1a804f500ce54353a3a691a4aad93c4fc8e9f2d77f2c4"
 metafile = true
