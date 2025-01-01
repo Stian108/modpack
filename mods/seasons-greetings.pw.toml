@@ -1,0 +1,13 @@
+name = "Season's Greetings"
+filename = "seasonsgreetings-1.0.2+fabric.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1lJiXjU/versions/TGtPXsAF/seasonsgreetings-1.0.2%2Bfabric.1.21.1.jar"
+hash-format = "sha1"
+hash = "41b0b9f466aa0343dcdb6177cc486455c7550aff"
+
+[update]
+[update.modrinth]
+mod-id = "U1lJiXjU"
+version = "TGtPXsAF"

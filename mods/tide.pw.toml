@@ -1,0 +1,13 @@
+name = "Tide"
+filename = "tide-fabric-1.21-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/CIttOWbN/tide-fabric-1.21-1.4.2.jar"
+hash-format = "sha1"
+hash = "24cf73983ba494953946f8d7df4fa6ea8c785dec"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "CIttOWbN"

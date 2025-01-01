@@ -17,6 +17,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "e572e445125a73d127d2b33be4578970c184eef9a3fcfdd8f166606c1fa95c80"
 
 [[files]]
+file = "debug.log"
+hash = "3b4f0ae3bb9247f004f170574fc330e0083f41aa1d85e2a6779f19071d01c7ef"
+
+[[files]]
 file = "mods/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
 hash = "c462f3530c1870567bec0f5cbd265c5c4860e4e6f3680f5603ef32e02a6d17e4"
 
@@ -121,11 +125,6 @@ hash = "e5cbc5221d474cb7e95447c5bccd5be8a1e7df24b4416dc3b694b7c7141f68c1"
 metafile = true
 
 [[files]]
-file = "mods/cooking-for-blockheads.pw.toml"
-hash = "c7dc5645170a58c9b4cd31cc5aaea5952d8fdfaded39c898b6eea8c190d45f54"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "0f06ba5b409ad41ccb7c2356b1407fe751bf3794386d8ddca924475f74c50822"
 metafile = true
@@ -143,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a0465b93f628a2c6705e553f2d947646739ec02389096263ef727eb97b13096a"
+metafile = true
+
+[[files]]
+file = "mods/dumplings-delight-rewrapped.pw.toml"
+hash = "4ad6841aa0c83d2ee55f35e2705aa7b87422afefe18e2c9290d814ffe858213e"
 metafile = true
 
 [[files]]
@@ -191,8 +195,18 @@ hash = "78aef125e39c416f3c29f93687fd948f9dac9cedbf2c78dd2c9d0d93e2af7908"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "d6b47dd173774b1c674bef8fbdc62b8190c173ace996d5ed61a6c66ce70938d8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "11911ef91000cff30764874f842012c5c0ed22a77267a6e8ec6421d7f1c42f3b"
 metafile = true
 
 [[files]]
@@ -386,8 +400,28 @@ hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e5a59a2c34ec9e543067813d4e7c015b5409af2adf2f0cebacadacf5b042fa6a"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "3a02ca80a8b680dc38f1a804f500ce54353a3a691a4aad93c4fc8e9f2d77f2c4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "7ff2c2d57721b1ce6e428a79653e96f20144523f5db21c8b9fae20c12667abe8"
+metafile = true
+
+[[files]]
+file = "mods/seasons-greetings.pw.toml"
+hash = "7700b4d37b8255e430f8def348d77fb0b84d7579332d50d6061321378bec8075"
 metafile = true
 
 [[files]]
@@ -426,6 +460,11 @@ hash = "2e79e4841ff44bc6ab4ef4fa32c1206b27164478daea4e1d6ffc9bb80f4eb266"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "76c9dfc0f89c33d49abf01d17599b8d99c23007b72b54992f8356b99f06c9f5f"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1143f51e1bab2075190330ed6c86d5036c6706cb1a76df3a80108bc9edef63ef"
 metafile = true
@@ -438,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/terrastorage.pw.toml"
 hash = "10b58af903ec641f819e80f780457b654e1952bbf986acf633d697535b98ec2a"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "83f685443a3c72e507e3edcdfa3e9d55755e03421cca8b37caedef77cab7f519"
 metafile = true
 
 [[files]]
