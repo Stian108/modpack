@@ -126,18 +126,13 @@ hash = "0f06ba5b409ad41ccb7c2356b1407fe751bf3794386d8ddca924475f74c50822"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "7365a398d1d429363e9c361e2bb004d4b0c4139a42c44fcd1b39fca6714a3ba9"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "d6b752bfd7cab02574702391f4b978a0b0006d9cbd12146f4a88d10ea06a8500"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a0465b93f628a2c6705e553f2d947646739ec02389096263ef727eb97b13096a"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes-(emi).pw.toml"
+hash = "250b6a6ae198088afac5d1087a1f5722740166d13a36d4d9abc4afb7eb4a7439"
 metafile = true
 
 [[files]]
@@ -441,8 +436,28 @@ hash = "226e09f27d2fcc8a317ca3edd57cb35bd36819aa9b597607c52c04d1bb8a921a"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "a4199869975032a542070b0b5d85ffb1eaa4fa57af1f91b8c1979a1de9ae842b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "1530d1b55b817e1d2d51b578e412051e51df18bb484b85e687fc8a4c568c0864"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "198b9730aa12fe97d2ba7d950836c75a3bac97548c0f276702ad648ee7cf8542"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d08a4130ccbe9a4c8e77022d41ad3188683b31eaaa008e4db9e2f280b46203a7"
 metafile = true
 
 [[files]]
@@ -488,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "cfd892ed5e8e1ef897460d013feaa4082d7c5971581a04cb9bc6b1ef4dbb116a"
 metafile = true
 
 [[files]]
