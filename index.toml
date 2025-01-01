@@ -17,10 +17,6 @@ file = "config/defaultoptions/servers.dat"
 hash = "e572e445125a73d127d2b33be4578970c184eef9a3fcfdd8f166606c1fa95c80"
 
 [[files]]
-file = "debug.log"
-hash = "3b4f0ae3bb9247f004f170574fc330e0083f41aa1d85e2a6779f19071d01c7ef"
-
-[[files]]
 file = "mods/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
 hash = "c462f3530c1870567bec0f5cbd265c5c4860e4e6f3680f5603ef32e02a6d17e4"
 
