@@ -13,8 +13,12 @@ file = "config/comforts-server.toml"
 hash = "6f684b777e2d14e91037a1e288f94113e810938ab80b8416229d5f63193cf1b9"
 
 [[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "e572e445125a73d127d2b33be4578970c184eef9a3fcfdd8f166606c1fa95c80"
+file = "config/distraction_free_recipes-client.toml"
+hash = "b5f74e7619a5d5cb1fbe19e701ccfa885ecbc45a334484dcc1733fd3fc4a5378"
+
+[[files]]
+file = "config/tide.toml"
+hash = "795012b3984ba210b66677eec10f037b73b42c144d12bd44a636b01fb6d08223"
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
