@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "d5daa15ab5ac3bad6b2fb7af0ca6c62d5deaac4f33b9e0923c740c6f9840d947"
+hash = "782a7650f8c5be2b6eb51134f73fb261ba3d5e5053b16ded5205efb7cae2799d"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes-(emi).pw.toml"
-hash = "250b6a6ae198088afac5d1087a1f5722740166d13a36d4d9abc4afb7eb4a7439"
+hash = "2bfb7f1abd80c2b2f735d6c0a9f511eddaec85db361e49490fd99b165c7efeef"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/etherology.pw.toml"
-hash = "a2fdaf8ec7157c5441863c7de219c3177bcc0f464cc1e346b0003763c5b2640a"
+hash = "43ffcf8e29a59f03f62bbf7f8550ed91cc535649d4efd65097d15b3ef1b0fa45"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e79e16e442ac4b3da94c1515e8d9ac5baaeab7c9589f0ff0ebebf1574d77255"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -235,13 +235,8 @@ hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "9cb8af72ba843e31e600e16c70f925cf186fe2e7e82cee8c9a7c697e55b169a4"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
-hash = "e9b5551664b13354576e4c22a01d70eb355f6cb8014b1ce84350d2da27c46576"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
@@ -336,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "9185524d2938c250bf524d34930d27076a61896f2d6e08206f3edee1bc524e7c"
+hash = "90c587c4cb7a5860296a91155e71235f42646d8ef66467678310fc7bae758dc8"
 metafile = true
 
 [[files]]
@@ -451,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "a4199869975032a542070b0b5d85ffb1eaa4fa57af1f91b8c1979a1de9ae842b"
+hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
 metafile = true
 
 [[files]]
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Etherology"
-filename = "Etherology-1.21-0.1.4.jar"
+filename = "Etherology-1.21-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MGHiBUyJ/versions/eqcUs1Cz/Etherology-1.21-0.1.4.jar"
-hash-format = "sha1"
-hash = "90afc25cff8beffde06570ffba34db5d434814d6"
+url = "https://cdn.modrinth.com/data/MGHiBUyJ/versions/KKJxk4uu/Etherology-1.21-0.1.5.jar"
+hash-format = "sha512"
+hash = "358226494807fd418b8742472eae08e948aa98e77ca52c97d7f9e937291fc35397db62961c5f1e3b084f60b4260e0e76d0414b5a808658060d92811eefb157be"
 
 [update]
 [update.modrinth]
 mod-id = "MGHiBUyJ"
-version = "eqcUs1Cz"
+version = "KKJxk4uu"
