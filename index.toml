@@ -85,6 +85,11 @@ hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "d565971a2d0ef7546b239a7199e0e2d315a712df5fa4ebcd280764f7da6dc04c"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "a349ad7c04429bc2e35202e6d36637f0b7cd263e32d90b8ac8fb70bfdf29d185"
 metafile = true
@@ -170,6 +175,11 @@ hash = "1a0f7e5cb73d27f2fbfca06ea3748be9304bbe2ce7322f937a674756d26973d5"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "96b93977dce70b333c296d882413159b963443984f9259980ca0a3bb881578f5"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "dfc60497327cf49f23dcab6369eb0a746570e7607329336341ff3ed0228f0004"
 metafile = true
@@ -237,6 +247,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "e8025f8310eb197bfdf2ef71b56d0a954b173f21587c825a9429a210b322bda8"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "cfc78bf8a123e4e8ab1fe60ca20ac4379c7c73501ff061efc670ed59aba183d5"
 metafile = true
 
 [[files]]
@@ -317,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "56e454cc1b56302925f29185d26d59cea60a9e403b99b3634c37a505381d712f"
 metafile = true
 
 [[files]]
@@ -542,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4bff412d3a71ce97141788f987fb30f50a97b86896207de205d571bc78027e86"
+metafile = true
+
+[[files]]
+file = "mods/winterly.pw.toml"
+hash = "68bd19e788b4cf3ceadf24f2f267ccb7e36a3eec7971ffe91e5d859404b3df8e"
 metafile = true
 
 [[files]]
