@@ -60,11 +60,6 @@ hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
 metafile = true
 
 [[files]]
-file = "mods/basic-storage.pw.toml"
-hash = "356a92234f31178be14b9d69051e0f6d8e2a7dd75bac424cbc6eb57956f79a7e"
-metafile = true
-
-[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "99b24f26e0446dfe682f0fcaff72b5326a9458decba3a57ac96a0f02ea3c7511"
 metafile = true
@@ -172,6 +167,16 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "1a0f7e5cb73d27f2fbfca06ea3748be9304bbe2ce7322f937a674756d26973d5"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "dfc60497327cf49f23dcab6369eb0a746570e7607329336341ff3ed0228f0004"
+metafile = true
+
+[[files]]
+file = "mods/extendeddrawersaddon.pw.toml"
+hash = "2387b17db6659dcf033672922ba6b2662c46f54533d273fb5709555d5c0a19cb"
 metafile = true
 
 [[files]]
@@ -345,6 +350,11 @@ hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "74e8b981d6dfde6ba878962430999d556b615c4dbe3fc1d186e0ee4fe1d596d1"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "17dcc67a3af6e13b6b487c55b8bcefe90f8fa15232bb8cecb90c3d0fa16aa299"
 metafile = true
@@ -447,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "fa41e05d17ae825fe60001763b2160c15b3998fb0352fce0e70af67172afb262"
 metafile = true
 
 [[files]]
