@@ -550,6 +550,11 @@ hash = "76c9dfc0f89c33d49abf01d17599b8d99c23007b72b54992f8356b99f06c9f5f"
 metafile = true
 
 [[files]]
+file = "mods/suppressopengl1280.pw.toml"
+hash = "f36c3d7a610de807483dc2766611d2c28b361aa8c2314e70cb3514228d03c790"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1143f51e1bab2075190330ed6c86d5036c6706cb1a76df3a80108bc9edef63ef"
 metafile = true
