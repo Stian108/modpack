@@ -240,6 +240,11 @@ hash = "15a073d9b57199d3412e2c4b6287395be6665b750019bf678270f872c45346bd"
 metafile = true
 
 [[files]]
+file = "mods/frostbytes-skip-server-movement-check.pw.toml"
+hash = "3fff2caf86a3d1400a507ef5d01069eec44d6726710ef3611b11f9af4e958bdc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
 metafile = true

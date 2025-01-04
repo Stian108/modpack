@@ -1,0 +1,13 @@
+name = "Frostbyte's Skip Server Movement Check"
+filename = "skipservercheck-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KI9beRvX/versions/KaZzTusq/skipservercheck-1.0.2.jar"
+hash-format = "sha1"
+hash = "1800e1c80406cf4936485d489f8228c913001d24"
+
+[update]
+[update.modrinth]
+mod-id = "KI9beRvX"
+version = "KaZzTusq"
