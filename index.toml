@@ -145,6 +145,11 @@ hash = "4ad6841aa0c83d2ee55f35e2705aa7b87422afefe18e2c9290d814ffe858213e"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "376620dfe6cd578c65ac9094262c4863d187b459087fd7a46fb0f777193c2f8d"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ebc0864e8af9840c152083dc1abb163a7ea160c4b6ab733521166b658c3a2117"
 metafile = true
 
 [[files]]
@@ -282,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "f63e7d5f894ab0c29b3364115346f9298c7c257bb104992b68fb3256962bd745"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "6d55cdf728b23ca0ca629fcd93970ffc3c571ad4f15c1dac8d01faeec84deb03"
 metafile = true
 
 [[files]]
