@@ -280,6 +280,11 @@ hash = "56b74b202e8786cd2e706e62b5ceec2fe62977bd504a9b7c7ec49339c2ab24bb"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "bc82781b3f48234ae131e2160f2b72d4cc0801603a0c3e2eb9a88fd1b474de02"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "20cd9ea90ed44fe2a9ef85d2e5b3a312649374e55f22dd53eb250809e04a4328"
 metafile = true
@@ -450,6 +455,11 @@ hash = "c7f88729b083bfc0200b9f39a6a27f1d7824c9f5ee145ed538d32ebf38d1b678"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e5a59a2c34ec9e543067813d4e7c015b5409af2adf2f0cebacadacf5b042fa6a"
+metafile = true
+
+[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "3a02ca80a8b680dc38f1a804f500ce54353a3a691a4aad93c4fc8e9f2d77f2c4"
 metafile = true
@@ -527,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2e79e4841ff44bc6ab4ef4fa32c1206b27164478daea4e1d6ffc9bb80f4eb266"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
