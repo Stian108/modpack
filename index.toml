@@ -21,8 +21,8 @@ file = "config/tide.toml"
 hash = "795012b3984ba210b66677eec10f037b73b42c144d12bd44a636b01fb6d08223"
 
 [[files]]
-file = "mods/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
-hash = "c462f3530c1870567bec0f5cbd265c5c4860e4e6f3680f5603ef32e02a6d17e4"
+file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
+hash = "938646abf10ce1739b013d0449ce57f5e360760ff77cf2d890d4488ba66e88b4"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
