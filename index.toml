@@ -40,11 +40,6 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
-file = "mods/ars-elixirum.pw.toml"
-hash = "7e6d2ede11c04e97ff71cac479f52b3656c5f17cfd4a80e0640a58c65387570b"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "8550d575b7a5a11ae5d19274e01e815ecb78df80bfd0c3af496389877dc52b6b"
 metafile = true
