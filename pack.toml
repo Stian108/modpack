@@ -1,0 +1,13 @@
+name = "Client"
+author = "circle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1cb2ec3ad8e88dae587ef4b2ae6b7948ede6c3365dd3e876b95266e794d40be5"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
