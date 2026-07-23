@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "013c304497f052af7a1c04d91f72422ad030b3cc985cb611c2552851ba9f7b70"
+file = "config/minihud.json"
+hash = "421ed54701290c831a1cedeb94dfa34a2907e0d096010269a537fe52da9a7edc"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -237,16 +241,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "2c69879bd658f8d39e5b41964c483a5c841c21edb85b141511ea9d25f3b68fcf"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "bb2e5cb1f9aa2fbd83c61e4e21c0335904604eb1b3e33e8818ea240c4e20d337"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "0639f42b7cae5b379ae8c1471780f24eca78e2330c8fc4823bcb3641a30c1757"
 metafile = true
 
 [[files]]
