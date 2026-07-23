@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "74b26df9ce8545dc697d1a51849afc50ada22b0cc617a3e611755d87b7026be3"
+
+[[files]]
 file = "config/minihud.json"
 hash = "421ed54701290c831a1cedeb94dfa34a2907e0d096010269a537fe52da9a7edc"
 
