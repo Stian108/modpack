@@ -1,6 +1,6 @@
 name = "CICADA"
 filename = "cicada-lib-0.15.2+26.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/IwCkru1D/versions/3hUl5ch8/cicada-lib-0.15.2%2B26.2.jar"

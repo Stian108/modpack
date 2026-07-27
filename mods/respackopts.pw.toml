@@ -1,6 +1,6 @@
 name = "Respackopts"
 filename = "respackopts-26.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/OzLY0sr0/respackopts-26.2.0.jar"

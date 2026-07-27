@@ -1,6 +1,6 @@
 name = "Inventory Essentials"
 filename = "inventoryessentials-fabric-26.2-26.2.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Boon8xwi/versions/wKop0ZCj/inventoryessentials-fabric-26.2-26.2.0.3.jar"

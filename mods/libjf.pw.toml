@@ -1,6 +1,6 @@
 name = "LibJF"
 filename = "libjf-26.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/WKwQAwke/versions/2OUaNmBO/libjf-26.2.0.jar"

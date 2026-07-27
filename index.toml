@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/iris.properties"
-hash = "74b26df9ce8545dc697d1a51849afc50ada22b0cc617a3e611755d87b7026be3"
-
-[[files]]
 file = "config/minihud.json"
 hash = "421ed54701290c831a1cedeb94dfa34a2907e0d096010269a537fe52da9a7edc"
 
@@ -19,7 +15,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ac362fd04bd34760783c127e89478b56dbe30b6e7792f084f515f6046e7b5d31"
+hash = "aeb25aa02f9f6c8008e45a966c35d20a002adbb75933a71edc964d2ea38fc1ca"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+hash = "4e92df88dbb0e7da42a519fd64b607510fe39cb20e9acddb727576664a29a0e9"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "ff2f4fbdd28753bcc8e95a886a355e14b1f474f653e92a0ddc4e615b3aa870c5"
 metafile = true
 
 [[files]]
@@ -29,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "a1fc0a190ef5743f7feb1970b8c0e461848b9bf29b78b00dd90b3455dd455c7c"
+hash = "355be4d91d437c10f73a3ac8c80d3d85c78fa7a71a97fed545f7440f738af2b0"
 metafile = true
 
 [[files]]
@@ -39,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
+hash = "1450fd52048ba2bfec4d4f2ddd42ee9415e91c6895a22933e7f630bce93f7478"
 metafile = true
 
 [[files]]
@@ -84,12 +90,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "a759f7a566a2b4626920f49887d37ed6bae3bc94f99d398c4b2229759d8f4f01"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "b01528ff95003ddb1a60285ccc3b9fce4267263c398da2708285645926ac945a"
 metafile = true
 
 [[files]]
@@ -99,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+hash = "45bcc0606e834b2847545ce8eba923db013d45732ec4424ead305a372b901a1a"
 metafile = true
 
 [[files]]
@@ -114,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "64e0940d33115e239e002c96a9f5788797112c4f33ca0c5dc3f7b9b9ce5d0131"
+hash = "9d39321c9f31f78f5990a62d77bf2fff65691fbabda9723be042b3fe1df8191c"
 metafile = true
 
 [[files]]
@@ -129,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "76ae8e8106fef457a0bc83ab7969471f6321be430d8d56176b3dff25b53dde34"
+hash = "1558435840469c8f55afd88f7785ec45f1176c8059ab9cc2cb97f2dd98228a26"
 metafile = true
 
 [[files]]
@@ -149,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "726410a43cf53b6da8d292c1e7d3267fb5f96832360d712a7cebc08cdcdeaee9"
+hash = "730c208b427524eccaaa800420613f6b4af5e26bc69e771f735cb5e09eb48f3f"
 metafile = true
 
 [[files]]
@@ -179,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
+hash = "3da153824eb7ce10e2fdefb20818c1bfbde12cb3cd5cf32c4fa65ea8f4373568"
 metafile = true
 
 [[files]]
@@ -189,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
+hash = "a230b92a6879f8ac0d519213eb156d79cb0c1ae5cb3c27a32a7dbd2f57ba064a"
 metafile = true
 
 [[files]]
@@ -209,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "b1f04454e266b05c7d316d344b46fbab66893acfceea219901402fe56dc8586d"
+hash = "83c196a2e1cc501a683eeb622e982f1bfbe493ca3945c0b2e143a209e5d9ed8e"
 metafile = true
 
 [[files]]
@@ -249,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+hash = "35eada5f1c32f8f265685f301c00f81ed5aba8eaee7445c87803e628766bb9b8"
 metafile = true
 
 [[files]]
